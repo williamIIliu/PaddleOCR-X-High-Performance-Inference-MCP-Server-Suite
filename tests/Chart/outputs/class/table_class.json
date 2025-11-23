@@ -1,0 +1,16 @@
+{
+    "input_path": "/root/projects/PaddleOCR/tests/Table/files/Table1.png",
+    "page_index": null,
+    "class_ids": [
+        1,
+        0
+    ],
+    "scores": [
+        0.7979999780654907,
+        0.20200000703334808
+    ],
+    "label_names": [
+        "wireless_table",
+        "wired_table"
+    ]
+}

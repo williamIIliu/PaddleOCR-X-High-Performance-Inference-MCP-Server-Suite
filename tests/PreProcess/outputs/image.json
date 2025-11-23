@@ -1,0 +1,9 @@
+{
+    "input_path": "/root/projects/PaddleOCR/tests/PreProcess/files/image.jpg",
+    "page_index": null,
+    "model_settings": {
+        "use_doc_orientation_classify": true,
+        "use_doc_unwarping": true
+    },
+    "angle": 90
+}

@@ -1,0 +1,13 @@
+{
+    "input_path": "/root/projects/PaddleOCR/tests/PreProcess/files/image_direction.jpg",
+    "page_index": null,
+    "class_ids": [
+        2
+    ],
+    "scores": [
+        0.8923599720001221
+    ],
+    "label_names": [
+        "180"
+    ]
+}

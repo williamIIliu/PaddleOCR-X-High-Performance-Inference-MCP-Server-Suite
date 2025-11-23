@@ -1,0 +1,138 @@
+{
+    "input_path": "/root/projects/PaddleOCR/tests/Layout_Detection/files/cover.png",
+    "page_index": null,
+    "boxes": [
+        {
+            "cls_id": 4,
+            "label": "abstract",
+            "score": 0.986328125,
+            "coordinate": [
+                588.5,
+                1254.0,
+                1952.0,
+                2442.0
+            ]
+        },
+        {
+            "cls_id": 2,
+            "label": "text",
+            "score": 0.97314453125,
+            "coordinate": [
+                437.0,
+                2632.0,
+                2100.0,
+                2858.0
+            ]
+        },
+        {
+            "cls_id": 2,
+            "label": "text",
+            "score": 0.96142578125,
+            "coordinate": [
+                461.25,
+                641.0,
+                2074.0,
+                839.5
+            ]
+        },
+        {
+            "cls_id": 10,
+            "label": "doc_title",
+            "score": 0.96142578125,
+            "coordinate": [
+                441.5,
+                328.25,
+                2104.0,
+                558.5
+            ]
+        },
+        {
+            "cls_id": 0,
+            "label": "paragraph_title",
+            "score": 0.91015625,
+            "coordinate": [
+                448.25,
+                2532.0,
+                856.5,
+                2570.0
+            ]
+        },
+        {
+            "cls_id": 12,
+            "label": "header",
+            "score": 0.9072265625,
+            "coordinate": [
+                443.25,
+                106.9375,
+                829.0,
+                153.125
+            ]
+        },
+        {
+            "cls_id": 2,
+            "label": "text",
+            "score": 0.900390625,
+            "coordinate": [
+                462.5,
+                886.0,
+                1728.0,
+                1028.0
+            ]
+        },
+        {
+            "cls_id": 11,
+            "label": "footnote",
+            "score": 0.89599609375,
+            "coordinate": [
+                491.25,
+                3004.0,
+                1183.0,
+                3046.0
+            ]
+        },
+        {
+            "cls_id": 2,
+            "label": "text",
+            "score": 0.8935546875,
+            "coordinate": [
+                437.0,
+                2884.0,
+                2100.0,
+                2972.0
+            ]
+        },
+        {
+            "cls_id": 18,
+            "label": "aside_text",
+            "score": 0.88330078125,
+            "coordinate": [
+                57.96875,
+                921.5,
+                150.0,
+                2366.0
+            ]
+        },
+        {
+            "cls_id": 0,
+            "label": "paragraph_title",
+            "score": 0.82958984375,
+            "coordinate": [
+                1153.0,
+                1150.0,
+                1395.0,
+                1200.0
+            ]
+        },
+        {
+            "cls_id": 3,
+            "label": "number",
+            "score": 0.7685546875,
+            "coordinate": [
+                1262.0,
+                3134.0,
+                1279.0,
+                3164.0
+            ]
+        }
+    ]
+}
