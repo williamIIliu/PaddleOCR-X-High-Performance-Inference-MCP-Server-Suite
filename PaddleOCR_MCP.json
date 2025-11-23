@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "paddleocr-ocr": {
+      "command": "paddleocr_mcp",
+      "args": [],
+      "env": {
+        "PADDLEOCR_MCP_PIPELINE": "PP-StructureV3",
+        "PADDLEOCR_MCP_PPOCR_SOURCE": "local"
+      }
+    }
+  }
+}
