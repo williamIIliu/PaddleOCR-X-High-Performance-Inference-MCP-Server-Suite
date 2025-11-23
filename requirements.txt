@@ -1,0 +1,5 @@
+PyMuPDF
+Pillow
+prometheus-client 
+nvidia-ml-py
+safetensors==0.6.2
